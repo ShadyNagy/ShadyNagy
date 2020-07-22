@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shadynagy/)
+- 🐦 Twitter: [ShadyNagy_](https://twitter.com/ShadyNagy_)
+
 <!--
 **ShadyNagy/ShadyNagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
