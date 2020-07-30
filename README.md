@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shadynagy/)
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/shadynagy_.svg?style=social&label=Follow%20shadynagy_)](https://twitter.com/shadynagy_)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/shadynagy_.svg?style=social&label=Follow%20ShadyNagy_)](https://twitter.com/shadynagy_)
 
 <!--
 **ShadyNagy/ShadyNagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
