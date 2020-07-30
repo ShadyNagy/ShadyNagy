@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shadynagy/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ShadyNagy/)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/shadynagy_.svg?style=social&label=Follow%20ShadyNagy_)](https://twitter.com/shadynagy_)
 
