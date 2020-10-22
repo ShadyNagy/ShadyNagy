@@ -4,6 +4,9 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/shadynagy_.svg?style=social&label=Follow%20ShadyNagy_)](https://twitter.com/shadynagy_)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadyNagy&show_icons=true" alt="ShadyNagy" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyNagy&layout=compact&hide=html" alt="ShadyNagy" />
+
 <!--
 **ShadyNagy/ShadyNagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
