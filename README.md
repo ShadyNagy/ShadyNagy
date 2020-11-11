@@ -14,9 +14,8 @@
 <div/>
 <br />
   
-<div>
-  <img align="center" src="https://profile-counter.glitch.me/ShadyNagy/count.svg" alt="ShadyNagy" />
-<div/>
+![Visitors since 10 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ShadyNagy&repo=ShadyNagy&countColor=%237B1E7A)
+
 
 <!--
 **ShadyNagy/ShadyNagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
