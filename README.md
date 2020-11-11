@@ -5,8 +5,8 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/shadynagy_.svg?style=social&label=Follow%20ShadyNagy_)](https://twitter.com/shadynagy_)
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyNagy&layout=compact&hide=html&theme=dark" alt="ShadyNagy" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadyNagy&show_icons=true&theme=dark" alt="ShadyNagy" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyNagy&layout=compact&hide=html&theme=dark" alt="ShadyNagy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShadyNagy&show_icons=true&theme=dark" alt="ShadyNagy" />
 <div/>
 <br />
 <img align="left" src="https://profile-counter.glitch.me/ShadyNagy/count.svg" alt="ShadyNagy" />
