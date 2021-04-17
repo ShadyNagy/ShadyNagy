@@ -6,6 +6,7 @@
 [![twitter badge](https://img.shields.io/badge/-@ShadyNagy_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ShadyNagy_)
 ![githubbadge](https://img.shields.io/github/followers/ShadyNagy?style=social)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shadynagi@gmail.com)](mailto:shadynagi@gmail.com)
+![Visitors since 10 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ShadyNagy&repo=ShadyNagy&countColor=%237B1E7A)
 <!--![](https://komarev.com/ghpvc/?username=ShadyNagy&color=brightgreen&style=flat)-->
 
 #### Languages
@@ -38,8 +39,6 @@
 <a href="https://ShadyNagy.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadyNagy&show_icons=true&theme=dark" alt="ShadyNagy" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyNagy&layout=compact&hide=html&theme=dark" alt="ShadyNagy" /></a>
 
 <br />
-  
-![Visitors since 10 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ShadyNagy&repo=ShadyNagy&countColor=%237B1E7A)
 
 
 <!--
