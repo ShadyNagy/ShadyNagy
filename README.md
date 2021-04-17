@@ -10,9 +10,9 @@
 
 #### Languages
 
-[![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)]
+![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
