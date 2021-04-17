@@ -5,7 +5,7 @@
 [![dev.to badge](https://img.shields.io/badge/-ShadyNagy-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shadynagy)
 [![twitter badge](https://img.shields.io/badge/-@ShadyNagy_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ShadyNagy_)
 ![githubbadge](https://img.shields.io/github/followers/ShadyNagy?style=social)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shadynagi@gmail.com)](mailto:shadynagi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@shadynagy.com)](mailto:info@shadynagy.com)
 <!--![](https://komarev.com/ghpvc/?username=ShadyNagy&color=brightgreen&style=flat)-->
 
 #### Languages
