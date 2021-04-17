@@ -39,7 +39,7 @@
 ![Visitors since 10 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ShadyNagy&repo=ShadyNagy&countColor=%237B1E7A)
 
 <br />
-<a href="https://ShadyNagy.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadyNagy&show_icons=true&theme=dark" alt="ShadyNagy" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyNagy&layout=compact&hide=html&theme=dark" alt="ShadyNagy" /></a>
+<a href="https://ShadyNagy.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadyNagy&show_icons=true&theme=dark&hide_border=true" alt="ShadyNagy" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyNagy&layout=compact&hide=html&theme=dark&hide_border=true" alt="ShadyNagy" /></a>
 
 <br />
 
