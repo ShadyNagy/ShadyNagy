@@ -3,6 +3,7 @@
 - 📫 How to reach me:
 
 [![dev.to badge](https://img.shields.io/badge/-ShadyNagy-%230177B5?style=flat&logo=About.me)](https://shadynagy.com)
+[![dev.to badge](https://img.shields.io/badge/-ShadyNagy-%230177B5?style=flat&logo=whatsapp)](https://wa.me/201116721111)
 [![dev.to badge](https://img.shields.io/badge/-ShadyNagy-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shadynagy)
 [![Discord](https://img.shields.io/badge/-Discord-%230177B5?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/SxKuMzshjB)
 [![twitter badge](https://img.shields.io/badge/-@ShadyNagy_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ShadyNagy_)
