@@ -1,26 +1,20 @@
-### Hi, I'm <a href="https://ShadyNagy.com">Shady Nagy</a>  👋
+## Shady Nagy - Passionate Software Developer
 
-- 📫 How to reach me:
+### Introduction
+👋 Hi, I'm Shady Nagy, a software developer with years of experience in multiple programming languages and technologies. I specialize in crafting efficient, maintainable, and scalable software solutions, and I'm always eager to learn and adapt to new challenges. I strongly believe in continuous learning and sharing knowledge, actively contributing to the developer community through blog posts, tutorials, and open-source projects.
 
-[![dev.to badge](https://img.shields.io/badge/-ShadyNagy-%230177B5?style=flat&logo=About.me)](https://shadynagy.com)
-[![dev.to badge](https://img.shields.io/badge/-ShadyNagy-%230177B5?style=flat&logo=whatsapp)](https://wa.me/201116721111)
-[![dev.to badge](https://img.shields.io/badge/-ShadyNagy-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shadynagy)
-[![Discord](https://img.shields.io/badge/-Discord-%230177B5?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/SxKuMzshjB)
-[![twitter badge](https://img.shields.io/badge/-@ShadyNagy_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ShadyNagy_)
-[![githubbadge](https://img.shields.io/github/followers/ShadyNagy?style=social)](https://github.com/ShadyNagy?tab=followers)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@shadynagy.com)](mailto:info@shadynagy.com)
-<!--![](https://komarev.com/ghpvc/?username=ShadyNagy&color=brightgreen&style=flat)-->
-
-#### Languages
-
+### Skills
 ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
+- Strong problem-solving and analytical abilities
+- Excellent communication and teamwork skills
+- Deep understanding of software development best practices and methodologies
 
 
-#### Technologies
+### Technologies
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-fff?style=flat&logo=.net&logoColor=blue)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-fff?style=flat&logo=Microsoft&logoColor=0078D7)
 ![SignalR](https://img.shields.io/badge/-SignalR-fff?style=flat&logo=signalr&logoColor=blue)
@@ -36,6 +30,19 @@
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Microsoft-Azure&logoColor=blue)
+
+### Contact Information
+[![dev.to badge](https://img.shields.io/badge/-ShadyNagy-%230177B5?style=flat&logo=About.me)](https://shadynagy.com)
+[![dev.to badge](https://img.shields.io/badge/-ShadyNagy-%230177B5?style=flat&logo=whatsapp)](https://wa.me/201116721111)
+[![dev.to badge](https://img.shields.io/badge/-ShadyNagy-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shadynagy)
+[![Discord](https://img.shields.io/badge/-Discord-%230177B5?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/SxKuMzshjB)
+[![twitter badge](https://img.shields.io/badge/-@ShadyNagy_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ShadyNagy_)
+[![githubbadge](https://img.shields.io/github/followers/ShadyNagy?style=social)](https://github.com/ShadyNagy?tab=followers)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@shadynagy.com)](mailto:info@shadynagy.com)
+<!--![](https://komarev.com/ghpvc/?username=ShadyNagy&color=brightgreen&style=flat)-->
+
+### Let's Connect!
+I'm always looking for exciting opportunities to collaborate and create innovative software solutions. If you'd like to get in touch, feel free to reach out via the contact information provided above. Let's build something great together!
 
 <br />
 
