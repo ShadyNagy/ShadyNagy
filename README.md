@@ -53,7 +53,7 @@ I'm always looking for exciting opportunities to collaborate and create innovati
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadyNagy&theme=xcode&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadyNagy&theme=github-compact&hide_border=true" />
 
 <!--
 **ShadyNagy/ShadyNagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
